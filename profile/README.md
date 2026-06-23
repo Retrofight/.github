@@ -20,3 +20,15 @@ Questo significa che:
 - licenze, accessi e livello di apertura vengono decisi componente per componente.
 
 RetroFight vuole essere chiaro su questo punto: aperto dove e' utile, protetto dove serve a mantenere identita', continuita' e qualita' del prodotto.
+
+## Documenti legali
+
+I documenti legali pubblici di RetroFight sono mantenuti nel repository [retrofight-legal](https://github.com/Retrofight/retrofight-legal) e devono essere considerati parte essenziale del progetto:
+
+- [Legal Notice](https://github.com/Retrofight/retrofight-legal/blob/main/LEGAL_NOTICE.md)
+- [Terms of Use](https://github.com/Retrofight/retrofight-legal/blob/main/TERMS_OF_USE.md)
+- [First Run Disclaimer](https://github.com/Retrofight/retrofight-legal/blob/main/FIRST_RUN_DISCLAIMER.md)
+- [Download Disclaimer](https://github.com/Retrofight/retrofight-legal/blob/main/DOWNLOAD_DISCLAIMER.md)
+- [Third-Party Content Notice](https://github.com/Retrofight/retrofight-legal/blob/main/THIRD_PARTY_CONTENT.md)
+- [Copyright Policy](https://github.com/Retrofight/retrofight-legal/blob/main/COPYRIGHT_POLICY.md)
+- [Legal FAQ](https://github.com/Retrofight/retrofight-legal/blob/main/FAQ_LEGAL.md)
